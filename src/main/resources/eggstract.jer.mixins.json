@@ -1,0 +1,11 @@
+{
+  "required": false,
+  "package": "com.woulvee.eggstract.mixin.jer",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "VillagersHelperMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
